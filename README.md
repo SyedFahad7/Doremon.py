@@ -35,6 +35,6 @@ Feel free to customize the script and create your own variations of Doraemon. Yo
 - This project was inspired by the love for Doraemon and the desire to introduce programming concepts through creative coding.
 
 ## Author
-- GitHub: [SyedFahad7](https://github.com/SyedFahad7))
+- GitHub: [SyedFahad7](https://github.com/SyedFahad7)
 
 If you have any suggestions or improvements, feel free to open an issue or create a pull request. Enjoy drawing Doraemon with Turtle in Python!
